@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
+I'm Asmit Kumar.
+🌱 Currently learning Java and Web Development
+💻 Interested in Software Development and Tech
+🚀 Building projects and improving daily
 <!--
 **asmit1212/asmit1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
